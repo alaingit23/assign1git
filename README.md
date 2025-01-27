@@ -1,5 +1,4 @@
 # assign1git
 Alain Mignot
 
-First comment
-This is a change on newbranch
+Keeping the change on newbranch to resolve merge conflict with main
